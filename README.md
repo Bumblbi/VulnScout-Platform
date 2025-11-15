@@ -220,6 +220,7 @@ app/
   · **Frontend**: Глеб (glebsmirnov200629-sketch)
   · **FullStack**: Александр (SanoEnger)
 
+
 <div align="center">
 ⭐ Не забудьте поставить звезду репозиторию, если проект вам понравился!
 </div>
