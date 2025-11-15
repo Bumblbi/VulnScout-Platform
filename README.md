@@ -216,6 +216,12 @@ app/
   4. Интегрируйте в ```app/celery_app/tasks.py```
 
 ## **👥 Команда разработки**
-  · **Backend**: Александр (Bumblbi)
-  · **Frontend**: Глеб (glebsmirnov200629-sketch)
-  · **FullStack**: Александр (SanoEnger)
+
+  · **Backend**: Александр (Bumblbi - https://github.com/Bumblbi) 
+  · **Frontend**: Глеб (glebsmirnov200629-sketch - https://github.com/glebsmirnov200629-sketch)
+  · **FullStack**: Александр (SanoEnger - https://github.com/SanoEnger)
+
+
+<div align="center">
+⭐ Не забудьте поставить звезду репозиторию, если проект вам понравился!
+</div>
