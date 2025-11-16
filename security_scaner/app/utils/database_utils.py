@@ -1,7 +1,7 @@
 from sqlalchemy.orm import Session
 from typing import Dict, List, Optional
-from app.models.scan_models import Scan, Host, Port, ScanStatus
-from app.models.vulnerability_models import Vulnerability, SeverityLevel
+from app.models.scan_models import Scan, ScanStatus
+from app.models.vulnerability_models import Vulnerability, SeverityLevel, Host, Port
 from app.models.attack_models import AttackVector
 
 def save_scan_results(db: Session, scan: Scan, network_data: Dict, vulnerabilities: List[Dict], attack_vectors: List[Dict] = None):

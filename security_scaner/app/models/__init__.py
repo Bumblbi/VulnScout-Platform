@@ -1,6 +1,6 @@
 from app.database import Base, engine
-from .scan_models import Scan, Host, Port
-from .vulnerability_models import Vulnerability
+from .scan_models import Scan
+from .vulnerability_models import Vulnerability, Host, Port
 from .attack_models import AttackVector
 
 __all__ = [
